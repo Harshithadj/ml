@@ -1,0 +1,15 @@
+day,outlook,temp,humidity,play
+D1,sunny,0
+D2,sunny,0
+D3,overcast,0
+D4,rain,1
+D5,rain,1
+D6,rain,0
+D7,overcast,1
+D8,sunny,0
+D9,sunny,1
+D10,rain,1
+D11,sunny,1
+D12,overcast,1
+D13,overcast,1
+D14,rain,0
